@@ -5,8 +5,8 @@ from measurements.views import SensorViewSet, MeasurementViewSet
 
 
 router = routers.DefaultRouter()
-router.register(r'sensor', SensorViewSet)
-router.register(r'measurement', MeasurementViewSet)
+router.register(r'sensors', SensorViewSet)
+router.register(r'measurements', MeasurementViewSet)
 
 
 urlpatterns = [

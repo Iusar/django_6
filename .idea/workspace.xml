@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c0d19c2-0db8-4204-a8d1-8400e2edcc88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/smart_home/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_home/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/measurements/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/measurements/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/measurements/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/measurements/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/measurements/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/smart_home/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
